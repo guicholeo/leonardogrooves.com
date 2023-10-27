@@ -93,3 +93,20 @@ body {
       transform: translateY(0);
   }
 }
+
+#footer a{
+  color: #FFF;
+  font-size: .6rem;
+  line-height: 1.25;
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+#policy {
+  max-width: 675px;
+  width: auto;
+  display: block;
+  margin: 27px auto;
+}
