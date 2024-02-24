@@ -6,7 +6,7 @@ body {
   min-height: 100vh;
   font-family: 'Open Sans';
   background: #0886B9;
-  background: linear-gradient(180deg, #714F68, #2D0D40);
+  background: linear-gradient(180deg, #9B79F9, #44019d);
   opacity: 0;
   animation: 1s ease-out .2s 1 transitionAnimation;
   animation-fill-mode: forwards;
