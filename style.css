@@ -5,8 +5,8 @@ body {
   padding: 0;
   min-height: 100vh;
   font-family: 'Open Sans';
-  background: #0886B9;
-  background: linear-gradient(180deg, #7DA2BD, #2e546f)
+  /* background: #0886B9; */
+  background: linear-gradient(180deg, #F2AE67, #0f0a0b);
   opacity: 0;
   animation: 1s ease-out .2s 1 transitionAnimation;
   animation-fill-mode: forwards;
